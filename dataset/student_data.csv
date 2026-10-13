@@ -1,1 +1,16 @@
-
+student_id,name,gender,age,department,maths,science,english,attendance
+1,Arun,Male,20,CSE,85,78,82,92
+2,Priya,Female,21,CSE,92,88,90,95
+3,Karthik,Male,20,IT,76,81,74,88
+4,Divya,Female,21,IT,89,94,91,96
+5,Vignesh,Male,20,CSE,68,72,70,82
+6,Harini,Female,20,ECE,95,91,94,98
+7,Suresh,Male,21,ECE,72,69,75,85
+8,Keerthana,Female,20,CSE,88,86,89,93
+9,Rahul,Male,21,IT,81,79,84,90
+10,Nandhini,Female,20,ECE,91,93,90,97
+11,Manoj,Male,21,CSE,74,77,71,84
+12,Sowmya,Female,20,IT,87,90,88,94
+13,Ajay,Male,20,ECE,79,83,80,89
+14,Anitha,Female,21,CSE,94,96,92,99
+15,Praveen,Male,20,IT,66,70,68,80
